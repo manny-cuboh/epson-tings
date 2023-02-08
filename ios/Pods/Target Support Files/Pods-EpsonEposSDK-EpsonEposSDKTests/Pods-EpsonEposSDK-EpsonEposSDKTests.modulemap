@@ -1,0 +1,6 @@
+module Pods_EpsonEposSDK_EpsonEposSDKTests {
+  umbrella header "Pods-EpsonEposSDK-EpsonEposSDKTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
